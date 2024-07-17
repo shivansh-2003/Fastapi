@@ -4,3 +4,7 @@ torch
 uvicorn
 requests
 pydantic
+sentencepiece
+pandas
+scikit-learn
+pandas
